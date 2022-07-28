@@ -2,6 +2,10 @@
 
 - This project is a landing page which can be used for restaurants. 
 
+[Netlify](https://restaurant-landing-page-harshthakkar1011.netlify.app/)
+
+![Badge](https://img.shields.io/badge/Netlify-Link-green)
+
 ---
 
 ### **What did I learn from this Project?**
