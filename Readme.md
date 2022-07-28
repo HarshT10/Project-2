@@ -29,4 +29,4 @@
 ---
 
 ## **Feedback**
-- Feedbacks are always appreciated. harsh.thakkar@gmail.com
+- Feedbacks are always appreciated. harsh.thakkar1011@gmail.com
